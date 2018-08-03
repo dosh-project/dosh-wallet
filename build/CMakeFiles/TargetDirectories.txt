@@ -1,0 +1,7 @@
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/Dosh.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/rocksdb.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/cryptonote.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/Dosh_autogen.dir
+/home/ubuntu/Downloads/dosh-gui-coal/build/CMakeFiles/cryptonote_autogen.dir

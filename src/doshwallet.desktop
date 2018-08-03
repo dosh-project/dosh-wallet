@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Dosh Wallet
+Comment=Dosh wallet
+Exec=doshwallet %U
+Terminal=false
+Type=Application
+Icon=dosh
+MimeType=x-scheme-handler/dosh;
+Categories=Office;Finance;
